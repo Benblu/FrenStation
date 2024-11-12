@@ -1,4 +1,4 @@
-<p align="center"> <img alt="Space Station 14" width="880" height="300" src="![image](https://github.com/user-attachments/assets/140d8fde-f915-43e0-a157-bd8b06ef8c0c)" /></p>
+
 
 This is a fork from the primary repo for Space Station 14 called Goob Station. To prevent people forking RobustToolbox, a "content" pack is loaded by the client and server. This content pack contains everything needed to play the game on one specific server this is the content pack for Goob Station.
 
